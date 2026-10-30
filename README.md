@@ -1,18 +1,9 @@
-# RescueSync
+# sos flutter project
 
-RescueSync is an SOS application that allows users to quickly connect and coordinate in emergency situations. **Beta Version: v0.1.0**  
+sos flutter project is an SOS application that allows users to quickly connect and coordinate in emergency situations. **Beta Version: v0.1.0**  
 *Note: This is a beta release. There is still a long way to go, and many features are yet to be implemented.*
 
-RescueSync is built with Flutter/Dart for the frontend and PHP for the backend, leveraging a MySQL database for data storage. Currently, the app is designed to work on Android devices only.
-
-<!-- Insert application images/screenshots here -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d7dfc207-01b1-46d4-a0bf-3516400135a1" width="150" style="margin: 0 5px;" />
-  <img src="https://github.com/user-attachments/assets/7fca7cea-5abf-462c-8992-f5b41e2dfc34" width="150" style="margin: 0 5px;" />
-  <img src="https://github.com/user-attachments/assets/47a32429-2a52-4348-9c49-d9a9ee41ffcd" width="150" style="margin: 0 5px;" />
-  <img src="https://github.com/user-attachments/assets/aedde814-977b-4ab0-822d-5df8f3657b88" width="150" style="margin: 0 5px;" />
-  <img src="https://github.com/user-attachments/assets/4b1e7448-f614-4702-999c-43f9007eb7a5" width="150" style="margin: 0 5px;" />
-</p>
+sos is built with Flutter/Dart for the frontend and PHP for the backend, leveraging a MySQL database for data storage. Currently, the app is designed to work on Android devices only.
 
 
 
@@ -33,7 +24,7 @@ RescueSync is built with Flutter/Dart for the frontend and PHP for the backend, 
 
 ## Overview
 
-RescueSync is designed to provide a seamless SOS experience. Users can log in or register and then either join an existing room or share an invite code with someone else. When an invite code is used (either by someone else or when you use someone else's code), a new room is automatically created with roles such as **member**, **owner**, and **moderator**. These roles manage room settings and control member permissions like removing users or modifying room configurations.
+sos is designed to provide a seamless SOS experience. Users can log in or register and then either join an existing room or share an invite code with someone else. When an invite code is used (either by someone else or when you use someone else's code), a new room is automatically created with roles such as **member**, **owner**, and **moderator**. These roles manage room settings and control member permissions like removing users or modifying room configurations.
 
 ---
 
